@@ -1,0 +1,19 @@
+body{
+    color:blueviolet;
+    background-color: aqua;
+}
+
+.heading{
+    width:80%;
+    font-size: 87px;
+}
+
+#camera{
+    border: 2px dashed rgb(5, 0, 141);
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:deeppink;
+}
